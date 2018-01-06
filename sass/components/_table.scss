@@ -1,0 +1,23 @@
+﻿table {
+    margin: 0 0 20px 0;
+}
+
+.consert-details-heading {
+    color: $primary-color;
+    font-family: $h1h2-font;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+td {
+    color: $primary-color;
+    font-family: $p-font;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    padding-right: 10px;
+}

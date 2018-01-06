@@ -1,0 +1,27 @@
+﻿form {
+    position: relative;
+}
+
+.email {
+    width: 530px;
+    color: #282828;
+    font-family: $p-font;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 3.2px;
+    border: none;
+    border-bottom-width: 2px;
+    border-bottom-color: #999999;
+    border-bottom-style: solid;
+}
+
+#button {
+    position: absolute;
+    top: 20px;
+    right: 0;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
